@@ -1,0 +1,4 @@
+Hotel created a schedule for 34 employees
+Hotel paid 2230.0 zl for the bills
+Hotel paid 177250.59 zl for the employees' salaries
+Malgorzata Glowacka booked the room nr 20

@@ -1,0 +1,150 @@
+1 1 false false
+2 1 false
+3 3 false true
+4 4 true true
+5 s
+6 s
+7 s
+8 s
+9 s
+10 a
+11 a
+12 a
+13 a
+14 a
+15 3 true true
+16 2 true false
+17 2 false false
+18 2 false false
+19 3 false false
+20 4 false false
+21 4 true false
+22 4 true true
+23 4 false true
+24 4 false true
+25 3 false false
+26 2 false false
+27 3 true false
+28 3 true true
+29 2 false true
+30 3 false true
+31 1 true
+32 1 true
+33 1 false
+34 2 true false
+35 2 true true
+36 1 false
+37 1 false
+38 1 false
+39 1 false
+40 1 false
+41 1 false
+42 1 true
+43 1 true
+44 1 true
+45 1 true
+46 1 true
+47 1 true
+48 1 true
+49 1 true
+50 2 false false
+51 2 false false
+52 2 false false
+53 2 false false
+54 2 false false
+55 2 false false
+56 2 false false
+57 2 false false
+58 2 false false
+59 2 false true
+60 2 false true
+61 2 false true
+62 2 false true
+63 2 false true
+64 2 false true
+65 2 false true
+66 2 false true
+67 2 false true
+68 2 false true
+69 2 true false
+70 2 true false
+71 2 true false
+72 2 true false
+73 2 true false
+74 2 true false
+75 2 true false
+76 2 true false
+77 2 true false
+78 2 true false
+79 2 true false
+80 2 true true
+81 2 true true
+82 2 true true
+83 2 true true
+84 2 true true
+85 2 true true
+86 2 true true
+87 2 true true
+88 2 true true
+89 2 true true
+90 2 true true
+91 3 false false
+92 3 false false
+93 3 false false
+94 3 false false
+95 3 false false
+96 3 false false
+97 3 false false
+98 3 false false
+99 3 false true
+100 3 false true
+101 3 false true
+102 3 false true
+103 3 false true
+104 3 false true
+105 3 false true
+106 3 false true
+107 3 false true
+108 3 false true
+109 3 false true
+110 3 true false
+111 3 true false
+112 3 true false
+113 3 true false
+114 3 true false
+115 3 true false
+116 3 true false
+117 3 true false
+118 3 true true
+119 3 true true
+120 3 true true
+121 3 true true
+122 3 true true
+123 3 true true
+124 3 true true
+125 3 true true
+126 3 true true
+127 4 false false
+128 4 false false
+129 4 false false
+130 4 false false
+131 4 false false
+132 4 false false
+133 4 false true
+134 4 false true
+135 4 false true
+136 4 false true
+137 4 false true
+138 4 true false
+139 4 true false
+140 4 true false
+141 4 true false
+142 4 true false
+143 4 true false
+144 4 true true
+145 4 true true
+146 4 true true
+147 4 true true
+148 4 true true
+149 4 true true
+150 4 true true

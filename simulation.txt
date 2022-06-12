@@ -1,0 +1,66 @@
+Hotel created a schedule for 34 employees
+Hotel paid 2230.0 zl for the bills
+Hotel paid 177250.59 zl for the employees' salaries
+Ola Uzda booked the room nr 20
+CHANGE! Employees on change: 
+Feliks Uberek cook
+Robert Mazurek cook
+Janek Baranek maid
+Karolina Trok recepcionist
+Wojtek Wojak bodyguard
+Dominika Wyszynska barman
+Zbigniew Stonoga barman
+Ozyrys K barman
+Dawid Malen waiter
+Natalia Siwiec waiter
+Ula Siwiec waiter
+
+Guest with PESEL 93445844431 order_waking_up at 23
+It is not possible to book a room for Krzystof Tyniec
+CHANGE! Employees on change: 
+Magda Beza maid
+Leyla Lema recepcionist
+Malgosia Lipa bodyguard
+
+Ola Uzda booked the room nr 23
+Guest with PESEL 93445844431 order_taxi 
+Ola Uzda booked the room nr 24
+It is not possible to book a room for Krzystof Tyniec
+Ola Uzda booked the room nr 127
+It is not possible to book a room for Bartek Brzozko
+Guest with PESEL 93445844431 order_dish Pizza_Capriciosa
+Guest with PESEL 93445844431 order_dish Pizza_Capriciosa
+Guest with PESEL 93445844431 order_dish Pizza_Capriciosa
+Next day: -9.10.2020
+CHANGE! Employees on change: 
+Karol Kochar manager
+Feliks Uberek cook
+Dawid Podsiadlo cook
+Regina Celi maid
+Marek Wojcik recepcionist
+Kuba Nowaczyski bodyguard
+Dominika Wyszynska barman
+Karim Benzema barman
+Renata Barek waiter
+Rafal Wygora waiter
+Ela Siwiec waiter
+
+CHANGE! Employees on change: 
+Jan Kowalski cook
+Agata Kostro cook
+Mietek Zul maid
+Anastazja Nowak recepcionist
+Wojtek Wojak bodyguard
+Mateusz Lipniak barman
+Szymon Spaczynski barman
+Dawid Malen waiter
+Natalia Siwiec waiter
+Ala Siwiec waiter
+
+It is not possible to book a room for Robert Kopiec
+It is not possible to book a room for Robert Kopiec
+CHANGE! Employees on change: 
+Janek Baranek maid
+Karolina Trok recepcionist
+Malgosia Lipa bodyguard
+

@@ -1,0 +1,4 @@
+dish Pizza_Margherita 22 10 120 sause 15 cheese 50 dough 100
+dish Pizza_Capriciosa 25 15 120 sause 15 cheese 50 mushrooms 30 ham 25 dough 100
+dish Pizza_Quatro_Formaggi 30 15 120 sause 15 gouda 20 feta 15 mozarella 20 blue 10
+drink Kamikadze 10 3 1 vodka 10 liquer 15
